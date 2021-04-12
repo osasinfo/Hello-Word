@@ -1,2 +1,5 @@
 # Hello-Word
-trying to master github 
+
+Hi I am osaro by name aka osasinfo
+i love to code do new things 
+
